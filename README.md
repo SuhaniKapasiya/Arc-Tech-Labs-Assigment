@@ -27,6 +27,8 @@ A **React-Redux** project featuring a **Counter**, a **Data Table**, and a **Min
 
 ---
 
+Live Demo: [Mind Map](https://arc-tech-labs-assigment.vercel.app/mindmap)
+
 ## 📂 Project Structure
 
 ```
